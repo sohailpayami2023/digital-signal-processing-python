@@ -19,6 +19,7 @@ Build a deep, hands-on understanding of how digital information is transformed i
 - [x] `01_matplotlib_plotting.ipynb` — Matplotlib plotting guide for MATLAB users: line plots, subplots, styling, stem plots, bar charts, 3D plots, and MATLAB→Python quick reference
 - [x] `02_numpy_foundations.ipynb` — NumPy arrays, indexing, broadcasting, linear algebra (SVD, eigenvalues), reshaping, and MATLAB→NumPy quick reference
 - [x] `03_scipy_signal.ipynb` — SciPy signal processing: FIR/IIR filter design, `freqz`, `lfilter`, `filtfilt`, Welch PSD, spectrogram, and MATLAB→SciPy quick reference
+- [x] `04_python_syntax.ipynb` — Python language essentials: variables, if/elif/else, for/while loops, functions, list comprehensions, lists/dicts, classes, f-strings, imports, error handling, and MATLAB→Python quick reference
 
 ### Module 1: Signal Fundamentals
 - [x] `01_sine_and_noise.ipynb` — Cosine wave, complex baseband (IQ), AWGN noise, FFT / power spectrum, spectrogram (STFT)
