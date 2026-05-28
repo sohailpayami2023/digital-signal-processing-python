@@ -17,9 +17,11 @@ Build a deep, hands-on understanding of how digital information is transformed i
 
 ### Module 00: Python Foundations
 - [x] `01_python_syntax.ipynb` — Python language essentials: variables, if/elif/else, for/while loops, functions, list comprehensions, lists/dicts, classes, f-strings, modules and imports (standard library, third-party, pip, writing your own), error handling, and MATLAB→Python quick reference
-- [x] `02_matplotlib_plotting.ipynb` — Matplotlib plotting guide for MATLAB users: line plots, subplots, styling, stem plots, bar charts, 3D plots, and MATLAB→Python quick reference
-- [x] `03_numpy_foundations.ipynb` — NumPy arrays, indexing, broadcasting, linear algebra (SVD, eigenvalues), reshaping, and MATLAB→NumPy quick reference
-- [x] `04_scipy_signal.ipynb` — SciPy signal processing: FIR/IIR filter design, `freqz`, `lfilter`, `filtfilt`, Welch PSD, spectrogram, and MATLAB→SciPy quick reference
+- [x] `02_complex_numbers.ipynb` — Complex numbers and phasors: rectangular/polar form, Euler's formula, Argand diagrams, rotating phasors, IQ representation, dB/dBm, and MATLAB→Python quick reference
+- [x] `03_probability_statistics.ipynb` — Probability and statistics: random number generation, histograms, PDF/CDF, Gaussian/Rayleigh distributions, Central Limit Theorem, Monte Carlo BER simulation, and MATLAB→Python quick reference
+- [x] `04_matplotlib_plotting.ipynb` — Matplotlib plotting guide for MATLAB users: line plots, subplots, styling, stem plots, bar charts, 3D plots, mesh/heatmap plots, and MATLAB→Python quick reference
+- [x] `05_numpy_foundations.ipynb` — NumPy arrays, indexing, broadcasting, matrix multiply (`@` vs `np.matmul`), linear algebra (SVD, eigenvalues), reshaping, and MATLAB→NumPy quick reference
+- [x] `06_pandas_basics.ipynb` — Pandas DataFrames: creating, indexing, filtering, CSV/`.mat`/`.npy` file I/O, groupby, plotting, and a full BER sweep workflow
 
 ### Module 1: Signal Fundamentals
 - [x] `01_sine_and_noise.ipynb` — Cosine wave, complex baseband (IQ), AWGN noise, FFT / power spectrum, spectrogram (STFT)
