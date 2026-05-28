@@ -5,7 +5,7 @@ A practical, hands-on guide to DSP and wireless communications in Python — bri
 ---
 
 ## Project Status
-**Module 00 and Module 1 complete.** Python/Matplotlib foundations and core signal analysis tools — cosine generation, IQ representation, AWGN, FFT, and spectrogram — are implemented and documented. Module 2 (filtering) is next.
+**Module 00 and Module 1 complete.** Python foundations (Matplotlib, NumPy, SciPy signal) and core signal analysis tools — cosine generation, IQ representation, AWGN, FFT, and spectrogram — are implemented and documented. Module 2 (filtering) is next.
 
 ## Objectives
 
@@ -17,6 +17,8 @@ Build a deep, hands-on understanding of how digital information is transformed i
 
 ### Module 00: Python Foundations
 - [x] `01_matplotlib_plotting.ipynb` — Matplotlib plotting guide for MATLAB users: line plots, subplots, styling, stem plots, bar charts, 3D plots, and MATLAB→Python quick reference
+- [x] `02_numpy_foundations.ipynb` — NumPy arrays, indexing, broadcasting, linear algebra (SVD, eigenvalues), reshaping, and MATLAB→NumPy quick reference
+- [x] `03_scipy_signal.ipynb` — SciPy signal processing: FIR/IIR filter design, `freqz`, `lfilter`, `filtfilt`, Welch PSD, spectrogram, and MATLAB→SciPy quick reference
 
 ### Module 1: Signal Fundamentals
 - [x] `01_sine_and_noise.ipynb` — Cosine wave, complex baseband (IQ), AWGN noise, FFT / power spectrum, spectrogram (STFT)
